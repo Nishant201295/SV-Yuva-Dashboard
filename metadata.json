@@ -1,0 +1,6 @@
+{
+  "name": "SVYSY 2026-27 MIS Management Dashboard",
+  "description": "Executive Management Information System (MIS) Dashboard for SVYSY 2026-27 with live Google Sheets integration, KPIs, financial analytics, unit targets, performance tracking, and executive reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
